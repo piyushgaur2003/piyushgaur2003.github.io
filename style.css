@@ -202,7 +202,7 @@ a {
     width: 55px;
     height: 55px;
     object-fit: contain;
-    image-rendering: pixelated;
+    image-rendering: auto;
     filter: drop-shadow(2px 2px #000);
 }
 
